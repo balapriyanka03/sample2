@@ -1,1 +1,3 @@
 #Create code2
+s="hi"
+print(s)
